@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sharanu Kumbar 👋
 
-<!--
-**sharanurk/sharanurk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ECE Background | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+I'm interested in Data Science, Machine Learning,
+Artificial Intelligence and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have an Electronics and Communication Engineering
+background and have completed Data Science training
+at DataMites. I enjoy working on practical projects
+and solving real-world problems using data.
+
+## 🛠️ Technical Skills
+
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn
+- **Deep Learning:** CNN
+- **Hardware & Design:** Verilog HDL, ESP32
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+## 🚀 Projects
+
+- ❤️ Heart Disease Prediction
+- 🏠 House Price Prediction
+- 🌱 Rice Leaf Disease Classification using CNN
+- 🔋 IoT-Based EV Battery Management System
+
+## 🎯 Currently Working On
+
+- Building my GitHub portfolio
+- Improving my Data Science skills
+- Learning and developing practical projects
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/sharanurk
