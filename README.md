@@ -25,6 +25,7 @@ and solving real-world problems using data.
 - 🏠 House Price Prediction
 - 🌱 Rice Leaf Disease Classification using CNN
 - 🔋 IoT-Based EV Battery Management System
+- 📎 32-bit Floating-Point Multiplication Based on IEEE 754
 
 ## 🎯 Currently Working On
 
